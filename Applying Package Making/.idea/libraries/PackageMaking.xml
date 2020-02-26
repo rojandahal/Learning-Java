@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PackageMaking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PackageMaking/out/artifacts/PackageMaking_jar/PackageMaking.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
