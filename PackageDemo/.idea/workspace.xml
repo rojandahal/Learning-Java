@@ -6,13 +6,21 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc1aa71e-a759-4607-9a60-561eb11ce6b4" name="Default Changelist" comment="" />
+    <list default="true" id="dc1aa71e-a759-4607-9a60-561eb11ce6b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YD8ZblPa7sMRS0slPgOttcrhiF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +34,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,6 +71,8 @@
       <workItem from="1582465863608" duration="96000" />
       <workItem from="1582466051591" duration="55000" />
       <workItem from="1582730225932" duration="25000" />
+      <workItem from="1582740513659" duration="8000" />
+      <workItem from="1582740748563" duration="652000" />
     </task>
     <servers />
   </component>
@@ -69,6 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="664" y="198" key="FileChooserDialogImpl" timestamp="1582741206946">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="664" y="198" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1582741206946" />
     <state width="936" height="210" key="GridCell.Tab.0.bottom" timestamp="1582465959771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -85,10 +100,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="936" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582465959770" />
-    <state x="655" y="28" width="1024" height="843" key="SettingsEditor" timestamp="1582730248262">
+    <state x="159" y="28" width="1350" height="1052" key="SettingsEditor" timestamp="1582741328135">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582466078565" />
-    <state x="655" y="28" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582730248262" />
+    <state x="159" y="28" width="1350" height="1052" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582741328135" />
+    <state x="154" y="111" key="com.intellij.ide.util.TipDialog" timestamp="1582740748772">
+      <screen x="40" y="28" width="920" height="512" />
+    </state>
+    <state x="154" y="111" key="com.intellij.ide.util.TipDialog/40.28.920.512@40.28.920.512" timestamp="1582740748772" />
   </component>
 </project>

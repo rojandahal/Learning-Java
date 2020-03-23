@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6bf60af-618f-42da-a6a5-288d132e1a57" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b6bf60af-618f-42da-a6a5-288d132e1a57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parsing String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UO8uWoMzJuXyw6q5JxBviXYm0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -54,10 +64,21 @@
       <updated>1575216503976</updated>
       <workItem from="1575216507770" duration="3154000" />
       <workItem from="1575430718218" duration="82000" />
+      <workItem from="1582741493270" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="446" width="320" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582741502853">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="819" y="446" width="320" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1582741502853" />
+    <state x="458" y="189" key="SettingsEditor" timestamp="1582741541460">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="458" y="189" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582741541460" />
   </component>
 </project>

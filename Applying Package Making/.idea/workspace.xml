@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaf18fc4-ab20-479b-9861-b7193c89b9c5" name="Default Changelist" comment="" />
+    <list default="true" id="eaf18fc4-ab20-479b-9861-b7193c89b9c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parsing String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList Challange/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList Challange/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList Challange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList Challange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YG6ZY2T8tA4uudvTZ35GCOD14O" />
   <component name="ProjectViewState">
@@ -14,9 +35,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PackageMaking/out/artifacts/PackageMaking_jar/PackageMaking.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IntelliJIDEAProjects/FirstApp" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -49,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582556639472</updated>
       <workItem from="1582556642384" duration="344000" />
+      <workItem from="1583488063550" duration="16000" />
     </task>
     <servers />
   </component>
@@ -56,10 +79,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="155" key="FileChooserDialogImpl" timestamp="1582556752528">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="624" y="226" width="424" height="482" key="FileChooserDialogImpl" timestamp="1583488077703">
+      <screen x="48" y="28" width="1872" height="1052" />
     </state>
     <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582556752528" />
+    <state x="624" y="226" width="424" height="482" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1583488077703" />
     <state width="489" height="696" key="GridCell.Tab.0.bottom" timestamp="1582556986171">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -80,5 +104,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582556759048" />
+    <state x="639" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583488066552">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="639" y="381" key="com.intellij.ide.util.TipDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1583488066552" />
   </component>
 </project>

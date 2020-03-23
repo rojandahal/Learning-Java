@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dc5e14a-f0ff-4148-b6e6-3ff60f1f8f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parsing String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +46,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList Challange" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Images" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -80,6 +94,11 @@
       <workItem from="1575212959096" duration="888000" />
       <workItem from="1582730265393" duration="1193000" />
       <workItem from="1582734387599" duration="10000" />
+      <workItem from="1582737551479" duration="316000" />
+      <workItem from="1582738444633" duration="385000" />
+      <workItem from="1582740371262" duration="138000" />
+      <workItem from="1582741403157" duration="15000" />
+      <workItem from="1582723852318" duration="11000" />
     </task>
     <servers />
   </component>
@@ -87,14 +106,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582730463883">
+    <state x="717" y="253" width="524" height="592" key="FileChooserDialogImpl" timestamp="1582723861558">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state x="467" y="131" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582730463883" />
-    <state x="639" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582734388940">
+    <state x="717" y="253" width="524" height="592" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1582723861558" />
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582740502862">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state x="639" y="381" key="com.intellij.ide.util.TipDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1582734388940" />
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582740502862" />
+    <state x="639" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582740371958">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="639" y="381" key="com.intellij.ide.util.TipDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1582740371958" />
     <state x="647" y="260" key="search.everywhere.popup" timestamp="1582730535095">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>

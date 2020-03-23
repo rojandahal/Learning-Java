@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="617d7279-ed98-40c2-a9d2-a3f8617a5ce6" name="Default Changelist" comment="" />
+    <list default="true" id="617d7279-ed98-40c2-a9d2-a3f8617a5ce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parsing String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPSChallange/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parsing String/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rojan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rojan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortArray/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YIvVwFqZDmXftc69uyvPXYbH3o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +41,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -49,6 +70,8 @@
       <updated>1582642949452</updated>
       <workItem from="1582642954256" duration="1687000" />
       <workItem from="1582645117217" duration="637000" />
+      <workItem from="1582742982487" duration="1287000" />
+      <workItem from="1582723832796" duration="18000" />
     </task>
     <servers />
   </component>
@@ -60,13 +83,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582644598115" />
+    <state x="819" y="446" width="320" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582742995667">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="819" y="446" width="320" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1582742995667" />
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582645139665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582645139665" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582645117373">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="615" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1582723834124">
+      <screen x="48" y="28" width="1872" height="1052" />
     </state>
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582645117373" />
+    <state x="615" y="332" key="com.intellij.ide.util.TipDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1582723834124" />
   </component>
 </project>

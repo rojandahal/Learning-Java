@@ -22,7 +22,5 @@ public class Main {
         deluxeBurger.addHamburgerItem1("This is not Cool",44);
         deluxeBurger.TotalHamburger();
 
-
-
     }
 }
