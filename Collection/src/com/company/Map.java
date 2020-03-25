@@ -26,6 +26,27 @@ public class Map {
         System.out.println(languages.get("Kotlin"));
 
         System.out.println("==============================================================");
+
+        //This will remove the key of Python and the key value
+        //languages.remove("Python");
+
+        //This will check the key and the value and if the key-value pair is matched then it is removed otherwise not
+        //This function can also be used to check whether a value is removed or not and perform some actions in it
+        if(languages.remove("Algol","family of algorithmic language"))
+        {
+            System.out.println("Algol removed");
+        }else
+            System.out.println("Algol not removed");
+
+        //This function is used to replace a value from a key
+        System.out.println(languages.replace("Kotlin","Kotlin is nearly same as java"));
+        System.out.println(languages.replace("C","it is a middle level language")); //This won't work as C is not in the list
+
+        //This will replace old key value with new key value and return true and false
+        if(languages.replace("Kotlin","Kotlin is nearly same as java","kotlin is very fun"))
+            System.out.println("Kotlin replaced");
+        else System.out.println("Kotlin not replaced");
+
         //This languages.keySet() returns the sets of key of the maps and when we loop through all of them which prints the key and
         //the values of the keys
         for(String key: languages.keySet())
