@@ -12,29 +12,34 @@ public class Main {
 
         //This will put locations to different location ID and their description
         //It will have a entry and a description
-        locations.put(0,new Locations(0,"You are sitting in front of your computer learning Java"));
-        locations.put(1,new Locations(1,"You are inFront of your house in the road"));
-        locations.put(2,new Locations(2,"You are up in the hill"));
-        locations.put(3,new Locations(3,"You are inside the building"));
-        locations.put(4,new Locations(4,"You are in the valley"));
-        locations.put(5,new Locations(5,"You are in the forest"));
-
-        //Adding exists means the location to have some fixed values to move forward to
-        locations.get(1).addExits("E",3);
-        locations.get(1).addExits("W",2);
-        locations.get(1).addExits("N",5);
-        locations.get(1).addExits("S",4);
-
-        locations.get(2).addExits("N",5);
-
-        locations.get(3).addExits("W",1);
-
-        locations.get(4).addExits("W",2);
-        locations.get(4).addExits("N",1);
-
-        locations.get(5).addExits("W",2);
-        locations.get(5).addExits("S",1);
-
+        Map<String,Integer> tempExists = new HashMap<>();
+        locations.put(0,new Locations(0,"You are sitting in front of your computer learning Java",tempExists));
+        
+        tempExists = new HashMap<>();
+        tempExists.put("E",3);
+        tempExists.put("W",2);
+        tempExists.put("N",5);
+        tempExists.put("S",4);
+        locations.put(1,new Locations(1,"You are inFront of your house in the road",tempExists));
+        
+        tempExists = new HashMap<>();
+        tempExists.put("N",5);
+        locations.put(2,new Locations(2,"You are up in the hill",tempExists));
+        
+        tempExists = new HashMap<>();
+        tempExists.put("W",1);
+        locations.put(3,new Locations(3,"You are inside the building",tempExists));
+        
+        tempExists = new HashMap<>();
+        tempExists.put("W",2);
+        tempExists.put("N",1);
+        locations.put(4,new Locations(4,"You are in the valley",tempExists));
+        
+        tempExists = new HashMap<>();
+        tempExists.put("W",2);
+        tempExists.put("S",1);
+        locations.put(5,new Locations(5,"You are in the forest",tempExists));
+        
         //This will make another map with key values as the direction and the values as the letters fo the direction
         Map<String, String> vocabulary = new HashMap<>();
         vocabulary.put("EAST","E");
@@ -46,6 +51,7 @@ public class Main {
         int loc=1;
         while(true){
             System.out.println(locations.get(loc).getDescription());
+            tempExists.remove("S");
             if(loc==0){
                 break;
             }

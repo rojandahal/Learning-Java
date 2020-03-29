@@ -8,15 +8,11 @@ public class Locations {
     private final String description;
     private final Map<String,Integer> exits;
 
-    public void addExits(String description,int location)
-    {
-        exits.put(description,location);
-    }
-
-    public Locations(int locationID, String description) {
+    public Locations(int locationID, String description,Map<String,Integer> exists) {
         LocationID = locationID;
         this.description = description;
-        exits = new HashMap<String,Integer>();
+        //Adding this.exits=exists; can make the key change the original value so that new HashMap<>(exists) will save a copy of it
+        this.exits = new HashMap<String,Integer>(exists);
         this.exits.put("Q",0);
     }
 
